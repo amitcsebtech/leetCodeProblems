@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0112-path-sum) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->

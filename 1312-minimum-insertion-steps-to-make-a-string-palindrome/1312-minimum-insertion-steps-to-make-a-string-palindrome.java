@@ -1,28 +1,25 @@
 class Solution {
-    private int f1(String s, int l, int r, int[][] dp){
-        if(dp[l][r] != -1){
-            return dp[l][r];
-        }
-
-        if(l >= r) return dp[l][r] = 0;
-
-        if(s.charAt(l) == s.charAt(r)){
-            return dp[l][r] = f1(s,l+1,r-1,dp);
-        }
-
-        int cl = 1 + f1(s,l+1,r,dp);
-        int cr = 1 + f1(s,l,r-1,dp);
-
-        return dp[l][r] = Math.min(cl,cr);
-    }
     public int minInsertions(String s) {
         int n = s.length();
         int[][] dp = new int[n][n];
 
-        for(int i=0; i<n; i++){
-            Arrays.fill(dp[i],-1);
+        for(int k=1; k<n; k++){
+            int i = 0;
+            int j = k;
+
+            while(j < n){
+                if(s.charAt(i) == s.charAt(j)){
+                    dp[i][j] = dp[i+1][j-1];
+                }
+                else{
+                    dp[i][j] = 1 + Math.min(dp[i+1][j],dp[i][j-1]);
+                }
+                i++;
+                j++;
+            }
         }
 
-        return f1(s,0,n-1,dp);
+
+        return dp[0][n-1];
     }
 }

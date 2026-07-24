@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0113-path-sum-ii) |
+| [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0113-path-sum-ii) |
+| [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0113-path-sum-ii) |
+| [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 ## String
 |  |
 | ------- |
@@ -59,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

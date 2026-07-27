@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0113-path-sum-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
 ## String
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming

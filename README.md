@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
+| [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
+| [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
+| [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
 ## String
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## String Matching
 |  |

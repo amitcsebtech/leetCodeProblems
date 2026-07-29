@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0437-path-sum-iii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
 ## String
 |  |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->

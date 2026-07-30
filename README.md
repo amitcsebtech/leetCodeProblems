@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0993-cousins-in-binary-tree) |
 ## String
 |  |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |

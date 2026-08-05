@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0993-cousins-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0993-cousins-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

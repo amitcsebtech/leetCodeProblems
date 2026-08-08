@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0968-binary-tree-cameras) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->

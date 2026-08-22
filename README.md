@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0877-stone-game) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -209,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amitcsebtech/leetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/amitcsebtech/leetCodeProblems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -221,9 +225,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -325,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amitcsebtech/leetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

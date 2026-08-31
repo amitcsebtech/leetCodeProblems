@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amitcsebtech/leetCodeProblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/amitcsebtech/leetCodeProblems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
